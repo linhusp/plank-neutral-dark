@@ -1,5 +1,5 @@
 # plank-neutral-dark theme
-> A plank theme for Elementary OS Hera which has a new dark pallete
+> A plank theme for Elementary OS Hera which has a new dark palette
 
 <p align="center">
     <img alt="Screenshot" src="./demo.png">
